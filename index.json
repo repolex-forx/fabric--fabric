@@ -1,0 +1,11 @@
+{
+  "org": "fabric",
+  "repo": "fabric",
+  "versions": [
+    {
+      "commit": "ded51893f02c33d2bc7c157624c44a039a952037",
+      "tag": "",
+      "parsed_at": "2026-10-12T16:10:07.909318+00:00"
+    }
+  ]
+}
