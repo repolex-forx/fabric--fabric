@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/fabric/fabric/commit/ded51893f02c33d2bc7c157624c44a039a952037",
       "git:hexsha": "ded51893f02c33d2bc7c157624c44a039a952037",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-12T16:10:07.908143+00:00"
     },
     {
       "@id": "https://repolex.ai/r/fabric/fabric/commit/c53a0551c39db185d2f99220402484f2e7853fc6",
